@@ -1,3 +1,4 @@
+![Artificial Learning Banner](./media/banner.png)
 # 🌐 Why AI Should Be Called Artificial Learning (AL)
 
 > **“Machines don’t think — they learn.”**  
