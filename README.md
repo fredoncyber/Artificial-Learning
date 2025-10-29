@@ -51,11 +51,11 @@ Hence, the proposed reclassification: **Artificial Learning (AL).**
 
 ### APA
 > Ofori, F. (2025). *Why AI Should Be Called Artificial Learning (AL).* Artificial Learning Project.  
-> Retrieved from https://github.com/yourusername/Artificial-Learning
+> Retrieved from https://github.com/fredoncyber/Artificial-Learning
 
 ### IEEE
 > F. Ofori, “Why AI Should Be Called Artificial Learning (AL),” *Artificial Learning Project*, Oct. 2025.  
-> [Online]. Available: https://github.com/yourusername/Artificial-Learning
+> [Online]. Available: https://github.com/fredoncyber/Artificial-Learning
 
 ---
 
@@ -88,5 +88,5 @@ By focusing on **learning** instead of **intelligence**, we can build technologi
 
 ## 🏁 License
 
-© 2025 FredON CyberTech . All rights reserved.  
+© 2025 CyberTechTriage . All rights reserved.  
 This material may be shared for educational and research purposes with attribution.
