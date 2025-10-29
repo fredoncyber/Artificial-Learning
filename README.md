@@ -63,7 +63,7 @@ Hence, the proposed reclassification: **Artificial Learning (AL).**
 
 | File | Description |
 |------|--------------|
-| `Why_AI_Should_Be_Called_Artificial_Learning_AL_with_Cover.pdf` | Full peer-review paper with cover page and citations |
+| `Why_AI_Should_Be_Called_Artificial_Learning_AL_Go` | Full peer-review paper with cover page and citations |
 | `README.md` | Project overview and documentation |
 | `discussion_notes/` | (Optional) Notes, diagrams, or draft versions |
 | `media/` | (Optional) Future infographic or visual explanation assets |
